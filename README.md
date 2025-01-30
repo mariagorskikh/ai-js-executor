@@ -37,7 +37,7 @@ A powerful, AI-optimized JavaScript execution API that allows AI models to inter
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/ai-js-executor.git
+git clone https://github.com/mariagorskikh/ai-js-executor.git
 
 # Navigate to project directory
 cd ai-js-executor
